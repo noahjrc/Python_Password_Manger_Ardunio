@@ -1,4 +1,4 @@
-# Python-Password-Manger-NJRC
+# Python_Password_Manager_Arduino
 
 Designed and coded a password manager in Python with Arduino integration. The Program uses a master user to login, and stores account data such as usernames and passwords to the master user. While logging into the program with the master user the Arduino was used as a two-factor authentication key. The program detects a connection to the Arduino and checks if certain parameters are met before completing the login procedure.
 
